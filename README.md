@@ -1,4 +1,4 @@
-<img src="./assets/name.png">
+<img src="./Assets/Name.png">
 
 ###  👋 Hello, I'm William 🫡, also known on the internet as SiegBoss 🐺.
 
@@ -21,7 +21,7 @@ My English is not very good, but I try to improve 😄
    - HMI
    - LabVIEW
 
-<img width="70px" height="70px" style="margin: 10px" src="./assets/python.svg"> <img width="70px" height="70px" style="margin: 10px" src="./assets/java-icon.svg"> <img width="70px" height="70px" style="margin: 10px" src="./assets/HTML.svg">  <img width="70px" height="70px" style="margin: 10px" src="./assets/CSS.svg"> <img width="70px" height="70px" style="margin: 10px" src="./assets/JavaScript.svg"> 
+<img width="70px" height="70px" style="margin: 10px" src="./Assets/Python.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/HTML.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/CSS.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/JavaScript.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/Java.svg"> 
 
 <br>
 
@@ -33,12 +33,12 @@ My English is not very good, but I try to improve 😄
 <br>
 
 ## 🌐 Social Media
-You can find me on:
-- X         : [**@SiegBoss**](twitter.com/SiegBoss)
-- Instagram : [**@SiegBoss_**](instagram.com/siegboss_)
-- Tiktok    : [**@SiegBoss**](https://www.tiktok.com/@siegboss)
-- Youtube   : [**@SiegBoss.**](https://www.youtube.com/channel/UCSW3q-yaw-yatKWJ1138Pkw)
+You can find me on:<br>
 
+<img width="15px" height="15px" style="margin: 10px" src="./Assets/X.svg">         X         : [**@SiegBoss**](https://twitter.com/SiegBoss)<br>
+<img width="15px" height="15px" style="margin: 10px" src="./Assets/Instagram.svg"> Instagram : [**@SiegBoss_xp**](https://www.instagram.com/siegboss_xp/)<br>
+<img width="15px" height="15px" style="margin: 10px" src="./Assets/TikTok.svg">    Tiktok    : [**@SiegBoss**](https://www.tiktok.com/@siegboss)<br>
+<img width="15px" height="15px" style="margin: 10px" src="./Assets/YouTube.svg">   Youtube   : [**@SiegBoss.**](https://www.youtube.com/channel/UCSW3q-yaw-yatKWJ1138Pkw)<br>
 
 <!--
 **SiegBoss/SiegBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
