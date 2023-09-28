@@ -6,11 +6,12 @@
 
 🤖 I am a mechatronics engineer. <br>
 🌱 I am a passionate software developer. <br>
+
 My English is not very good, but I try to improve 😄
 
 <br> 
 
-## ⚡Some of my Programming Skills.
+## ⚡Some of my Programming Skills And HTML.
    - Python
    - HTML
    - CSS
@@ -35,22 +36,9 @@ My English is not very good, but I try to improve 😄
 ## 🌐 Social Media
 You can find me on:<br>
 
-<img width="15px" height="15px" style="margin: 10px" src="./Assets/X.svg">         X         : [**@SiegBoss**](https://twitter.com/SiegBoss)<br>
-<img width="15px" height="15px" style="margin: 10px" src="./Assets/Instagram.svg"> Instagram : [**@SiegBoss_xp**](https://www.instagram.com/siegboss_xp/)<br>
-<img width="15px" height="15px" style="margin: 10px" src="./Assets/TikTok.svg">    Tiktok    : [**@SiegBoss**](https://www.tiktok.com/@siegboss)<br>
-<img width="15px" height="15px" style="margin: 10px" src="./Assets/YouTube.svg">   Youtube   : [**@SiegBoss.**](https://www.youtube.com/channel/UCSW3q-yaw-yatKWJ1138Pkw)<br>
+- X         : [**@SiegBoss**](https://twitter.com/SiegBoss)
+- Instagram : [**@SiegBoss_xp**](https://www.instagram.com/siegboss_xp/)
+- Tiktok    : [**@SiegBoss**](https://www.tiktok.com/@siegboss)
+- Youtube   : [**@SiegBoss.**](https://www.youtube.com/channel/UCSW3q-yaw-yatKWJ1138Pkw)
+- Twitch    : [**@SiegBoss**](https://www.twitch.tv/Siegboss)
 
-<!--
-**SiegBoss/SiegBoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
