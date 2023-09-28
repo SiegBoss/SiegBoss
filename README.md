@@ -1,11 +1,16 @@
-### Hello, I'm William, also known on the internet as SiegBoss.
+<img src="./assets/name.png">
 
+###  👋 Hello, I'm William 🫡, also known on the internet as SiegBoss 🐺.
+
+<br>
+
+🤖 I am a mechatronics engineer. <br>
+🌱 I am a passionate software developer. <br>
 My English is not very good, but I try to improve 😄
 
-🔭 I am a passionate software developer.
-🌱 I am a mechatronics engineer.
+<br> 
 
-⚡Some of my programming skills.
+## ⚡Some of my Programming Skills.
    - Python
    - HTML
    - CSS
@@ -16,11 +21,23 @@ My English is not very good, but I try to improve 😄
    - HMI
    - LabVIEW
 
-🤔 Other skills
-   - 2D Pixel Art
-   - 3D design in SolidWorks
-   - Electrical circuit design
+<img width="70px" height="70px" style="margin: 10px" src="./assets/python.svg"> <img width="70px" height="70px" style="margin: 10px" src="./assets/java-icon.svg"> <img width="70px" height="70px" style="margin: 10px" src="./assets/HTML.svg">  <img width="70px" height="70px" style="margin: 10px" src="./assets/CSS.svg"> <img width="70px" height="70px" style="margin: 10px" src="./assets/JavaScript.svg"> 
 
+<br>
+
+## 🤔 Other Skills
+   - 2D Pixel Art
+   - 3D Design in SolidWorks
+   - Electrical Circuit Design
+     
+<br>
+
+## 🌐 Social Media
+You can find me on:
+- X         : [**@SiegBoss**](twitter.com/SiegBoss)
+- Instagram : [**@SiegBoss_**](instagram.com/siegboss_)
+- Tiktok    : [**@SiegBoss**](https://www.tiktok.com/@siegboss)
+- Youtube   : [**@SiegBoss.**](https://www.youtube.com/channel/UCSW3q-yaw-yatKWJ1138Pkw)
 
 
 <!--
