@@ -32,7 +32,7 @@ Although I have no previous work experience, I am looking forward to starting my
 <img width="70px" height="70px" style="margin: 10px" src="./Assets/LabView.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/microcontrolador.png"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/PLC.png"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/HMI.jpg"> 
 </p> 
 <p align="center" >
-<img width="140px" height="100px" style="margin: 10px" src="./Assets/SolidWorks.svg"> 
+<img width="150px" height="40px" style="margin: 10px" src="./Assets/SolidWorks.png"> 
 <img width="140px" height="40px" style="margin: 10px" src="./Assets/Aseprite.png"> <img width="140px" height="70px" style="margin: 10px" src="./Assets/Crocotile 3D.png">
 </p> 
 
@@ -42,13 +42,13 @@ Although I have no previous work experience, I am looking forward to starting my
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SiegBoss&theme=tokyonight-duo&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiegBoss&layout=compact&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiegBoss&layout=compact&theme=transparent&border_radius=20" />
 </p> 
 
 -------------------
 <h2 align="center"> 🌐 Social Media </h2>
 
-You can find me on:
+**You can find me on:**
 
 - X         : [**@SiegBoss**](https://twitter.com/SiegBoss)
 - Instagram : [**@SiegBoss_xp**](https://www.instagram.com/siegboss_xp/)
