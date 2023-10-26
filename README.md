@@ -9,7 +9,7 @@
   
 😬 My English is not very good, but I try to improve 😄
 
-I like the field of information technologies, I am looking for a position where I can apply my programming skills and learn new technologies. 
+I really like programming, I am looking for a position where I can apply my programming knowledge and learn new technologies.
 Although I have no previous work experience, I am looking forward to starting my career and contributing my knowledge and passion for programming.
 
 -----------------
