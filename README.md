@@ -15,7 +15,10 @@ Although I have no previous work experience, I am looking forward to starting my
 -----------------
 <h2 align="center"> 😼 My Skills </h2>
 
-<h3 align="center"> 🌱 Programming languages</h3>
+<h3 align="center"> 🌱 Programming languages </h3>
+<p align="center">
+  | Python | Java | C | C# | C++ | JavaScript |
+</p> 
 
 <p align="center">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Python.svg">
@@ -29,6 +32,10 @@ Although I have no previous work experience, I am looking forward to starting my
 <h3 align="center"> 🌱 Frontend and Backend </h3>
 
 <p align="center">
+  | HTML | CSS | React | Node Js |
+</p> 
+
+<p align="center">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/HTML.svg">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/CSS.svg"> 
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/React.svg"> 
@@ -36,6 +43,9 @@ Although I have no previous work experience, I am looking forward to starting my
 </p> 
 
 <h3 align="center"> 🌱 Mobile App </h3>
+<p align="center">
+  | Android | Kotlin |
+</p> 
 
 <p align="center">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Android.svg">
@@ -43,12 +53,19 @@ Although I have no previous work experience, I am looking forward to starting my
 </p> 
 
 <h3 align="center"> 🌱 Database</h3>
+<p align="center">
+  | SQLite |
+</p> 
 
 <p align="center">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/SQLite.svg">
 </p> 
 
 <h3 align="center"> 🌱 Other Skills </h3>
+
+<p align="center">
+  | LabView | PLC | HMI | Microcontrollers | Matlab | Git |
+</p> 
 
 <p align="center">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/LabView.svg"> 
@@ -59,6 +76,9 @@ Although I have no previous work experience, I am looking forward to starting my
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Git.svg"> 
 </p> 
 
+<p align="center">
+  | SolidWorks | Aseprite | Crocotile 3D |
+</p>
 <p align="center">
 <img width="150px" height="35px" style="margin: 10px" src="./Assets/SolidWorks.png"> 
 <img width="150px" height="40px" style="margin: 10px" src="./Assets/Aseprite.png">
