@@ -15,7 +15,7 @@ Although I have no previous work experience, I am looking forward to starting my
 -----------------
 <h2 align="center"> 😼 My Skills </h2>
 
-<h3 align="center"> 🌱 Programming languages (and html) </h3>
+<h3 align="center"> 🌱 Programming languages</h3>
 
 <p align="center">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Python.svg">
@@ -53,10 +53,13 @@ Although I have no previous work experience, I am looking forward to starting my
 <p align="center">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/LabView.svg"> 
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/PLC.png">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/HMI.jpg"> 
+<img width="50px" height="50px" style="margin: 10px" src="./Assets/HMI.png"> 
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Microcontrolador.png">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Matlab.svg">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Git.svg"> 
+</p> 
+
+<p align="center">
 <img width="150px" height="35px" style="margin: 10px" src="./Assets/SolidWorks.png"> 
 <img width="150px" height="40px" style="margin: 10px" src="./Assets/Aseprite.png">
 <img width="150px" height="60px" style="margin: 10px" src="./Assets/Crocotile 3D.png"> 
