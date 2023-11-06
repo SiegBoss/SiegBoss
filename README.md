@@ -1,11 +1,11 @@
 <p align="center"> <img src="./Assets/Name.png"> </p>   
-<h2 align="center">👋 Hello, I'm William 🫡, also known on the internet as SiegBoss 🐺</h2>
+<h2 align="center">👋 Hello, I'm William 🫡</h2>
 
 * 🫡 `My name is`: **William**
 * 🐺 `I'm` : **25 Years Old**
 * 💻 `Favorite lang`: **Python**
 * 🤖 `Studies` : **Mechatronics Engineer**
-* 🌱 `hobby` : **Programming**
+* 🌱 `Hobby` : **Programming**
   
 😬 My English is not very good, but I try to improve 😄
 
@@ -17,17 +17,11 @@ Although I have no previous work experience, I am looking forward to starting my
 <h3 align="center"> 🌱 Programming languages (and html) </h3>
 
 <p align="center">
-| - Python  | - Java  | - SQLite  | - HTML  | - CSS  | - JavaScript  | 
-</p>
-<p align="center">
-<img width="70px" height="70px" style="margin: 10px" src="./Assets/Python.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/Java.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/SQLite.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/HTML.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/CSS.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/JavaScript.svg">
+<img width="50px" height="50px" style="margin: 10px" src="./Assets/Python.svg"> <img width="50px" height="50px" style="margin: 10px" src="./Assets/Java.svg"> <img width="50px" height="50px" style="margin: 10px" src="./Assets/SQLite.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/HTML.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/CSS.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/JavaScript.svg">
 </p> 
 
 <h3 align="center"> 🤔 Other Skills </h3>
 
-<p align="center">
-| - LabView  | - Microcontroller  | - PLC  | - HMI  | - SolidWorks  | - Aseprite | - Crocotile 3D  |
-</p> 
 <p align="center" >
 <img width="70px" height="70px" style="margin: 10px" src="./Assets/LabView.svg"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/microcontrolador.png"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/PLC.png"> <img width="70px" height="70px" style="margin: 10px" src="./Assets/HMI.jpg"> 
 </p> 
@@ -38,7 +32,7 @@ Although I have no previous work experience, I am looking forward to starting my
 
 -------------------
 
-<h2 align="center"> 😹 Statistics </h2>
+<h2 align="center"> 🎮 Statistics </h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SiegBoss&theme=tokyonight-duo&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
