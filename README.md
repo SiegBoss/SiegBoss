@@ -13,43 +13,35 @@ I really like programming, I am looking for a position where I can apply my prog
 Although I have no previous work experience, I am looking forward to starting my career and contributing my knowledge and passion for programming.
 
 -----------------
-<h2 align="center"> 😼 My Skills </h2>
+<h2 align="center"> 🫡 My Skills </h2>
 
-<h3 align="center"> 🌱 Programming languages </h3>
+<h3 align="center"> 🌱 Programming Languages </h3>
 <p align="center">
-  | Python | Java | C | C# | C++ | JavaScript |
+  | Python | C | C# | C++ | JavaScript | Java | Kotlin
 </p> 
 
 <p align="center">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Python.svg">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Java.svg"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/C.svg"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/C--.svg"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/C++.svg"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/JavaScript.svg">
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/Python.svg">
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/C.svg"> 
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/C--.svg"> 
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/C++.svg"> 
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/JavaScript.svg">
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/Java.svg">
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/Kotlin.svg">
 </p> 
 
-<h3 align="center"> 🌱 Frontend and Backend </h3>
+<h3 align="center"> 🌱 Web Technologies </h3>
 
 <p align="center">
-  | HTML | CSS | React | Node Js |
-</p> 
-
-<p align="center">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/HTML.svg">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/CSS.svg"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/React.svg"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Node js.svg">
-</p> 
-
-<h3 align="center"> 🌱 Mobile App </h3>
-<p align="center">
-  | Android | Kotlin |
+  | HTML | CSS | React | Bootstrap| Node Js |
 </p> 
 
 <p align="center">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Android.svg">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Kotlin.svg"> 
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/HTML.svg">
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/CSS.svg"> 
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/React.svg"> 
+<img width="50px" height="40px" style="margin: 15px" src="./Assets/Bootstrap.svg"> 
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/Node js.svg">
 </p> 
 
 <h3 align="center"> 🌱 Database</h3>
@@ -58,7 +50,7 @@ Although I have no previous work experience, I am looking forward to starting my
 </p> 
 
 <p align="center">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/SQLite.svg">
+<img width="40px" height="40px" style="margin: 10px" src="./Assets/SQLite.svg">
 </p> 
 
 <h3 align="center"> 🌱 Other Skills </h3>
