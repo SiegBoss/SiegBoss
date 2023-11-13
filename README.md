@@ -4,8 +4,8 @@
 * 🫡 `My name is`: **William**
 * 🐺 `I'm` : **25 Years Old**
 * 💻 `Favorite lang`: **Python**
-* 🤖 `Studies` : **Mechatronics Engineer**
-* 🌱 `Hobby` : **Programming**
+* 🤖 `Studies` : **Mechatronics Engineer Jr**
+* 🌱 `Hobby` : **Programmer Jr**
   
 😬 My English is not very good, but I try to improve 😄
 
@@ -17,14 +17,12 @@ Although I have no previous work experience, I am looking forward to starting my
 
 <h3 align="center"> 🌱 Programming Languages </h3>
 <p align="center">
-  | Python | C | C# | C++ | JavaScript | Java | Kotlin
+  | Python | C | JavaScript | Java | Kotlin
 </p> 
 
 <p align="center">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/Python.svg">
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/C.svg"> 
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/C--.svg"> 
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/C++.svg"> 
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/C.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/JavaScript.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/Java.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/Kotlin.svg">
@@ -53,10 +51,10 @@ Although I have no previous work experience, I am looking forward to starting my
 <img width="40px" height="40px" style="margin: 10px" src="./Assets/SQLite.svg">
 </p> 
 
-<h3 align="center"> 🌱 Other Skills </h3>
+<h3 align="center"> 🌱 Mechatronics Skills </h3>
 
 <p align="center">
-  | LabView | PLC | HMI | Microcontrollers | Matlab | Git |
+  | LabView | PLC | HMI | Microcontrollers | Matlab |
 </p> 
 
 <p align="center">
@@ -65,16 +63,13 @@ Although I have no previous work experience, I am looking forward to starting my
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/HMI.png"> 
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Microcontrolador.png">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Matlab.svg">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Git.svg"> 
 </p> 
 
 <p align="center">
-  | SolidWorks | Aseprite | Crocotile 3D |
+  | SolidWorks |
 </p>
 <p align="center">
 <img width="150px" height="35px" style="margin: 10px" src="./Assets/SolidWorks.png"> 
-<img width="150px" height="40px" style="margin: 10px" src="./Assets/Aseprite.png">
-<img width="150px" height="60px" style="margin: 10px" src="./Assets/Crocotile 3D.png"> 
 </p> 
 
 -------------------
