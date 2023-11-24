@@ -9,35 +9,35 @@
   
 😬 My English is not very good, but I try to improve 😄
 
-I really like programming, I am looking for a position where I can apply my programming knowledge and learn new technologies.
-Although I have no previous work experience, I am looking forward to starting my career and contributing my knowledge and passion for programming.
+<p align="center">
+I am a Jr Mechatronic Engineer with skills in mechanical, electronic design and control systems. My passion for programming has led me to study various types of languages such as Python, Java, JavaScript in addition to learning HTML, CSS and SQL databases. I am open to opportunities that allow me to apply my knowledge in engineering and programming individually or combined. My goal is to grow professionally by adding value to the organization.
+</p> 
 
 -----------------
+
 <h2 align="center"> 🫡 My Skills </h2>
 
 <h3 align="center"> 🌱 Programming Languages </h3>
 <p align="center">
-  | Python | C | JavaScript | Java | Kotlin
+  | Python | Java | C | JavaScript |
 </p> 
 
 <p align="center">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/Python.svg">
+<img width="40px" height="40px" style="margin: 15px" src="./Assets/Java.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/C.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/JavaScript.svg">
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/Java.svg">
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/Kotlin.svg">
 </p> 
 
 <h3 align="center"> 🌱 Web Technologies </h3>
 
 <p align="center">
-  | HTML | CSS | React | Bootstrap| Node Js |
+  | HTML | CSS | Bootstrap| Node Js |
 </p> 
 
 <p align="center">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/HTML.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/CSS.svg"> 
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/React.svg"> 
 <img width="50px" height="40px" style="margin: 15px" src="./Assets/Bootstrap.svg"> 
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/Node js.svg">
 </p> 
@@ -54,7 +54,7 @@ Although I have no previous work experience, I am looking forward to starting my
 <h3 align="center"> 🌱 Mechatronics Skills </h3>
 
 <p align="center">
-  | LabView | PLC | HMI | Microcontrollers | Matlab |
+  | LabView | PLC | HMI | Microcontrollers |
 </p> 
 
 <p align="center">
@@ -62,7 +62,6 @@ Although I have no previous work experience, I am looking forward to starting my
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/PLC.png">
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/HMI.png"> 
 <img width="50px" height="50px" style="margin: 10px" src="./Assets/Microcontrolador.png">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Matlab.svg">
 </p> 
 
 <p align="center">
