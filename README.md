@@ -50,7 +50,7 @@ I am a Jr Mechatronic Engineer with skills in mechanical, electronic design and 
 <p align="center">
 <img width="40px" height="40px" style="margin: 10px" src="./Assets/SQLite.svg">
 <img width="40px" height="40px" style="margin: 10px" src="./Assets/MYSQLWorkbench.svg">
-<img width="80px" height="40px" style="margin: 10px" src="./Assets/MongoDB.svg">
+<img width="40px" height="40px" style="margin: 10px" src="./Assets/MongoDB.svg">
 
 </p> 
 
@@ -61,10 +61,10 @@ I am a Jr Mechatronic Engineer with skills in mechanical, electronic design and 
 </p> 
 
 <p align="center">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/LabView.svg"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/PLC.png">
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/HMI.png"> 
-<img width="50px" height="50px" style="margin: 10px" src="./Assets/Microcontrolador.png">
+<img width="40px" height="40px" style="margin: 10px" src="./Assets/LabView.svg"> 
+<img width="40px" height="40px" style="margin: 10px" src="./Assets/PLC.png">
+<img width="40px" height="40px" style="margin: 10px" src="./Assets/HMI.png"> 
+<img width="40px" height="40px" style="margin: 10px" src="./Assets/Microcontrolador.png">
 </p> 
 
 <p align="center">
