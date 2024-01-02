@@ -44,11 +44,14 @@ I am a Jr Mechatronic Engineer with skills in mechanical, electronic design and 
 
 <h3 align="center"> 🌱 Database</h3>
 <p align="center">
-  | SQLite |
+  | SQLite | MySQL Workbench | MongoDB | 
 </p> 
 
 <p align="center">
 <img width="40px" height="40px" style="margin: 10px" src="./Assets/SQLite.svg">
+<img width="40px" height="40px" style="margin: 10px" src="./Assets/MYSQLWorkbench.svg">
+<img width="80px" height="40px" style="margin: 10px" src="./Assets/MongoDB.svg">
+
 </p> 
 
 <h3 align="center"> 🌱 Mechatronics Skills </h3>
