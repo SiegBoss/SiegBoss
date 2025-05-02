@@ -5,7 +5,7 @@
 * 🐺 `Edad` : **27 años**
 * 💻 `Mi Lenguaje Favorito es `: **Python**
 * 🤖 `Estudios` : **Ingeniero Mecatrónico**
-* 
+  
 <p align="center">
 Profesional con experiencia en programación en diversos lenguajes como Python, Java, C y JavaScript, así como en desarrollo web con HTML y CSS. Poseo habilidades en la implementación de sistemas, el manejo de bases de datos y el control de versiones con Git. Me adapto rápidamente a nuevas tecnologías y estoy comprometido con la creación de soluciones de software eficientes y de alta calidad.
 </p> 
