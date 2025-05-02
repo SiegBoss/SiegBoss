@@ -1,23 +1,20 @@
 <p align="center"> <img src="./Assets/Name.png"> </p>   
-<h2 align="center">👋 Hello, I'm William 🫡</h2>
+<h2 align="center">👋 Hola, Yo soy William 🫡</h2>
 
-* 🫡 `My name is`: **William**
-* 🐺 `I'm` : **27 Years Old**
-* 💻 `Favorite lang`: **Python**
-* 🤖 `Studies` : **Mechatronics Engineer Jr**
-* 🌱 `Hobby` : **Programmer Jr**
-  
-😬 My English is not very good, but I try to improve 😄
-
+* 🫡 `Mi nombre es`: **William**
+* 🐺 `Edad` : **27 años**
+* 💻 `Mi Lenguaje Favorito es `: **Python**
+* 🤖 `Estudios` : **Ingeniero Mecatrónico**
+* 
 <p align="center">
-I am a Jr Mechatronic Engineer with skills in mechanical, electronic design and control systems. My passion for programming has led me to study various types of languages such as Python, Java, JavaScript in addition to learning HTML, CSS and SQL databases. I am open to opportunities that allow me to apply my knowledge in engineering and programming individually or combined. My goal is to grow professionally by adding value to the organization.
+Profesional con experiencia en programación en diversos lenguajes como Python, Java, C y JavaScript, así como en desarrollo web con HTML y CSS. Poseo habilidades en la implementación de sistemas, el manejo de bases de datos y el control de versiones con Git. Me adapto rápidamente a nuevas tecnologías y estoy comprometido con la creación de soluciones de software eficientes y de alta calidad.
 </p> 
 
 -----------------
 
-<h2 align="center"> 🫡 My Skills </h2>
+<h2 align="center"> 🫡 Mis Habilidades </h2>
 
-<h3 align="center"> 🌱 Programming Languages </h3>
+<h3 align="center"> 🌱 Lenguajes de Programación </h3>
 <p align="center">
   | Python | Java | C | JavaScript |
 </p> 
@@ -29,68 +26,33 @@ I am a Jr Mechatronic Engineer with skills in mechanical, electronic design and 
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/JavaScript.svg">
 </p> 
 
-<h3 align="center"> 🌱 Web Technologies </h3>
+<h3 align="center"> 🌱 Tecnologias WEB </h3>
 
 <p align="center">
-  | HTML | CSS | Bootstrap| Node Js |
+  | HTML | CSS |
 </p> 
 
 <p align="center">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/HTML.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/CSS.svg"> 
-<img width="50px" height="40px" style="margin: 15px" src="./Assets/Bootstrap.svg"> 
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/Node js.svg">
 </p> 
 
-<h3 align="center"> 🌱 Database</h3>
+<h3 align="center"> 🌱 Bases de Datos </h3>
 <p align="center">
-  | SQLite | MySQL Workbench | MongoDB | 
+  | SQLite | MongoDB | 
 </p> 
 
 <p align="center">
 <img width="40px" height="40px" style="margin: 10px" src="./Assets/SQLite.svg">
-<img width="40px" height="40px" style="margin: 10px" src="./Assets/MYSQLWorkbench.svg">
 <img width="40px" height="40px" style="margin: 10px" src="./Assets/MongoDB.svg">
 
 </p> 
 
-<h3 align="center"> 🌱 Mechatronics Skills </h3>
-
-<p align="center">
-  | LabView | PLC | HMI | Microcontrollers |
-</p> 
-
-<p align="center">
-<img width="40px" height="40px" style="margin: 10px" src="./Assets/LabView.svg"> 
-<img width="40px" height="40px" style="margin: 10px" src="./Assets/PLC.png">
-<img width="40px" height="40px" style="margin: 10px" src="./Assets/HMI.png"> 
-<img width="40px" height="40px" style="margin: 10px" src="./Assets/Microcontrolador.png">
-</p> 
-
-<p align="center">
-  | SolidWorks |
-</p>
-<p align="center">
-<img width="150px" height="35px" style="margin: 10px" src="./Assets/SolidWorks.png"> 
-</p> 
-
 -------------------
-
-<h2 align="center"> 🎮 Statistics </h2>
+<h2 align="center"> 🎮 Estadísticas </h2>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SiegBoss&theme=tokyonight-duo&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiegBoss&layout=compact&theme=transparent&border_radius=20" />
 </p> 
-
--------------------
-<h2 align="center"> 🌐 Social Media </h2>
-
-**You can find me on:**
-
-- X         : [**@SiegBoss**](https://twitter.com/SiegBoss)
-- Instagram : [**@SiegBoss_xp**](https://www.instagram.com/siegboss_xp/)
-- Tiktok    : [**@SiegBoss**](https://www.tiktok.com/@siegboss)
-- Youtube   : [**@SiegBoss.**](https://www.youtube.com/channel/UCSW3q-yaw-yatKWJ1138Pkw)
-- Twitch    : [**@SiegBoss**](https://www.twitch.tv/Siegboss)
 
