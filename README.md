@@ -52,6 +52,5 @@ Profesional con experiencia en programación en diversos lenguajes como Python, 
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SiegBoss&theme=tokyonight-duo&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=600" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiegBoss&layout=compact&theme=transparent&border_radius=20" />
 </p> 
 
