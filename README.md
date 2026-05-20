@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hola, Yo soy William 🫡</h2>
 
 * 🫡 `Mi nombre es`: **William**
-* 🐺 `Edad` : **27 años**
+* 🐺 `Edad` : **28 años**
 * 💻 `Mi Lenguaje Favorito es `: **Python**
 * 🤖 `Estudios` : **Ingeniero Mecatrónico**
   
