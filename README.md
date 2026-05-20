@@ -7,7 +7,7 @@
 * 🤖 `Estudios` : **Ingeniero Mecatrónico**
   
 <p align="center">
-Profesional con experiencia en programación en diversos lenguajes como Python, Java, C y JavaScript, así como en desarrollo web con HTML y CSS. Poseo habilidades en la implementación de sistemas, el manejo de bases de datos y el control de versiones con Git. Me adapto rápidamente a nuevas tecnologías y estoy comprometido con la creación de soluciones de software eficientes y de alta calidad.
+Profesional con experiencia en programación en diversos lenguajes como Python, C y JavaScript, así como en desarrollo web con HTML y CSS. Poseo habilidades en la implementación de sistemas, el manejo de bases de datos y el control de versiones con Git. Me adapto rápidamente a nuevas tecnologías y estoy comprometido con la creación de soluciones de software eficientes y de alta calidad.
 </p> 
 
 -----------------
@@ -16,12 +16,11 @@ Profesional con experiencia en programación en diversos lenguajes como Python, 
 
 <h3 align="center"> 🌱 Lenguajes de Programación </h3>
 <p align="center">
-  | Python | Java | C | JavaScript |
+  | Python | C | JavaScript |
 </p> 
 
 <p align="center">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/Python.svg">
-<img width="40px" height="40px" style="margin: 15px" src="./Assets/Java.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/C.svg">
 <img width="40px" height="40px" style="margin: 15px" src="./Assets/JavaScript.svg">
 </p> 
