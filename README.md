@@ -1,5 +1,5 @@
 <p align="center"> <img src="./Assets/Name.png"> </p>   
-<h2 align="center">👋 Hola, Yo soy William 🫡</h2>
+<h2 align="center">👋 Hola, Soy William 🫡</h2>
 
 * 🫡 `Mi nombre es`: **William**
 * 🐺 `Edad` : **28 años**
